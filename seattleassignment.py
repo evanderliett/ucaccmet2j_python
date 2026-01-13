@@ -101,3 +101,18 @@ print(relative_monthly_precipitation_other)
 relative = total_yearly_precipitation_seattle / (total_yearly_precipitation_seattle + total_yearly_precipitation_other)
 print(relative)
 # you get 0.2562565420116091. so only 25.6% of all yearly rain falls in seattle
+
+
+
+
+
+
+stations_csv = []
+with open("stations.csv", encoding = "utf-8") as file:
+    for line in file:
+        stations_csv.append(line.strip())
+    stations_csv.remove("Location,State,Station")
+print(stations_csv)
+
+for location_info in stations_csv:
+    location, state, code = location_info.split(",")
