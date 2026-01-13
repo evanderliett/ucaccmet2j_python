@@ -1,0 +1,1988 @@
+[
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 165
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 64
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 249
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 114
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 318
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 69
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 64
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 117
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 145
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 69
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 132
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 43
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-01-31",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 15
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 107
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 51
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 46
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 99
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 64
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 23
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 71
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 127
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-02-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 20
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 23
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 43
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 264
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 61
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 36
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 173
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 130
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-03-31",
+        "station": "GHCND:US1WAKG0038",
+        "value": 28
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 46
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 117
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 36
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 53
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 15
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 140
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 127
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 20
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-04-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 20
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 51
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 18
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 97
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 140
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 127
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 51
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 81
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 56
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-05-31",
+        "station": "GHCND:US1WAKG0038",
+        "value": 56
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 33
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 43
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 81
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 64
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 51
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 28
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 84
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 46
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-06-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 30
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-07-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 53
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-08-31",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 94
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 33
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 51
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 48
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 109
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 170
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 211
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 58
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 41
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 66
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-09-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 69
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 254
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 122
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 46
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 15
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 249
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 112
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 30
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-10-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 102
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 216
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 56
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 173
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 66
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-11",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 18
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 69
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 23
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 84
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-19",
+        "station": "GHCND:US1WAKG0038",
+        "value": 8
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 48
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 76
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 58
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-11-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 122
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-01",
+        "station": "GHCND:US1WAKG0038",
+        "value": 107
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-02",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-03",
+        "station": "GHCND:US1WAKG0038",
+        "value": 25
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-04",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-05",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-06",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-07",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-08",
+        "station": "GHCND:US1WAKG0038",
+        "value": 193
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-09",
+        "station": "GHCND:US1WAKG0038",
+        "value": 229
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-10",
+        "station": "GHCND:US1WAKG0038",
+        "value": 74
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-12",
+        "station": "GHCND:US1WAKG0038",
+        "value": 699
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-13",
+        "station": "GHCND:US1WAKG0038",
+        "value": 201
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-14",
+        "station": "GHCND:US1WAKG0038",
+        "value": 152
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-15",
+        "station": "GHCND:US1WAKG0038",
+        "value": 36
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-16",
+        "station": "GHCND:US1WAKG0038",
+        "value": 56
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-17",
+        "station": "GHCND:US1WAKG0038",
+        "value": 3
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-18",
+        "station": "GHCND:US1WAKG0038",
+        "value": 13
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-20",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-21",
+        "station": "GHCND:US1WAKG0038",
+        "value": 38
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-22",
+        "station": "GHCND:US1WAKG0038",
+        "value": 18
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-23",
+        "station": "GHCND:US1WAKG0038",
+        "value": 10
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-24",
+        "station": "GHCND:US1WAKG0038",
+        "value": 157
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-25",
+        "station": "GHCND:US1WAKG0038",
+        "value": 135
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-26",
+        "station": "GHCND:US1WAKG0038",
+        "value": 30
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-27",
+        "station": "GHCND:US1WAKG0038",
+        "value": 43
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-28",
+        "station": "GHCND:US1WAKG0038",
+        "value": 81
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-29",
+        "station": "GHCND:US1WAKG0038",
+        "value": 5
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-30",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    },
+    {
+        "datatype": "PRCP",
+        "date": "2010-12-31",
+        "station": "GHCND:US1WAKG0038",
+        "value": 0
+    }
+]
